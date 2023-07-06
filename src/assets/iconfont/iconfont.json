@@ -1,0 +1,44 @@
+{
+  "id": "4150772",
+  "name": "winwin综合平台-H5",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1221892",
+      "name": "个人",
+      "font_class": "profile",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "3656289",
+      "name": "提现",
+      "font_class": "withdraw",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "3782925",
+      "name": "首页",
+      "font_class": "home",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "3862579",
+      "name": "扑克",
+      "font_class": "promotion",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "11223254",
+      "name": "福袋",
+      "font_class": "deposit",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    }
+  ]
+}
